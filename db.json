@@ -1,0 +1,40 @@
+{
+  "clientes": [
+    {
+      "nome": "",
+      "telefone": "2313213",
+      "id": "WptCnR"
+    },
+    {
+      "nome": "sdasd",
+      "telefone": "",
+      "id": "JAg2uB"
+    }
+  ],
+  "fornecedores": [
+    {
+      "id": "zvwnn5",
+      "nome": "dfgdgfd",
+      "endereco": "weqwerteerte",
+      "telefone": "234432"
+    },
+    {
+      "id": "gPVoVa",
+      "nome": "asdad",
+      "endereco": "asdad",
+      "telefone": "asdasd"
+    },
+    {
+      "id": "6cCoDe",
+      "nome": "bccbv",
+      "endereco": "cvbcvbcvb",
+      "telefone": "gdgdfgdfg"
+    },
+    {
+      "id": "y0mIMh",
+      "nome": "dsasda",
+      "endereco": "wqeqweqwe",
+      "telefone": "123123123"
+    }
+  ]
+}
